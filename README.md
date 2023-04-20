@@ -25,8 +25,8 @@ x.at(1, 'o');
 x.at(2, 'i');
 x.at(3, 'n');
 x.at(4, 't');
-x.at(4, 'e');
-x.at(4, 'r');
+x.at(5, 'e');
+x.at(6, 'r');
 
 //convert it to String
 printf("%s", x.as_str(7));
